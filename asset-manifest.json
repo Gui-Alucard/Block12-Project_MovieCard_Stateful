@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Block12-Project_MovieCard_Stateful/static/css/main.907bc088.chunk.css",
+    "main.js": "/Block12-Project_MovieCard_Stateful/static/js/main.2004725c.chunk.js",
+    "main.js.map": "/Block12-Project_MovieCard_Stateful/static/js/main.2004725c.chunk.js.map",
+    "runtime-main.js": "/Block12-Project_MovieCard_Stateful/static/js/runtime-main.02a49bd5.js",
+    "runtime-main.js.map": "/Block12-Project_MovieCard_Stateful/static/js/runtime-main.02a49bd5.js.map",
+    "static/js/2.416c5706.chunk.js": "/Block12-Project_MovieCard_Stateful/static/js/2.416c5706.chunk.js",
+    "static/js/2.416c5706.chunk.js.map": "/Block12-Project_MovieCard_Stateful/static/js/2.416c5706.chunk.js.map",
+    "index.html": "/Block12-Project_MovieCard_Stateful/index.html",
+    "precache-manifest.5a91c5d4a9560b482ee9afe2bec4b337.js": "/Block12-Project_MovieCard_Stateful/precache-manifest.5a91c5d4a9560b482ee9afe2bec4b337.js",
+    "service-worker.js": "/Block12-Project_MovieCard_Stateful/service-worker.js",
+    "static/css/main.907bc088.chunk.css.map": "/Block12-Project_MovieCard_Stateful/static/css/main.907bc088.chunk.css.map",
+    "static/js/2.416c5706.chunk.js.LICENSE.txt": "/Block12-Project_MovieCard_Stateful/static/js/2.416c5706.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a49bd5.js",
+    "static/js/2.416c5706.chunk.js",
+    "static/css/main.907bc088.chunk.css",
+    "static/js/main.2004725c.chunk.js"
+  ]
+}
